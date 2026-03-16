@@ -1,3 +1,3 @@
-This is newfile1.txt created on GITHUB
+This is dev2 adding some code (Aditya G). This is newfile1.txt created on GITHUB
 Changes by feature-logging-heet branch - Heet Shah
 New changes by Heet Shah - Changes 2.0
