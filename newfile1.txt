@@ -1,2 +1,2 @@
 This is newfile1.txt created on GITHUB
-Changes my Heet Shah
+Changes by Heet Shah
